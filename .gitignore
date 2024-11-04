@@ -1,0 +1,23 @@
+# ignorar enviroment
+nookcli-env/
+
+# Ignorar archivos de compilación de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Ignorar archivos de caché de pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Ignorar el archivo de configuración de la CLI
+config.txt
+
+# Ignorar archivos de Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
