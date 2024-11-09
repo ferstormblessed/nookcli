@@ -8,7 +8,6 @@ TEMPLATES = {
     "platformer": os.path.join(TEMPLATES_DIR, "platformer_template.cpp"),
     "infinite runner": os.path.join(TEMPLATES_DIR, "infinite_runner_template.cpp"),
     "pong": os.path.join(TEMPLATES_DIR, "pong_template.cpp"),
-    "snake": os.path.join(TEMPLATES_DIR, "snake_template.cpp"),
     "default": None
 }
 

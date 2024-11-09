@@ -7,6 +7,7 @@
 #include "NOOK/Utils/Register.h"
 #include "NOOK/Games/InfiniteRunner.h"
 #include "NOOK/Games/Pong.h"
+#include "NOOK/Games/Platformer.h"
 
 NOOK::Coordinator gCoordinator;
 NOOK::ResourceManager resourceManager;
